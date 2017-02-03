@@ -23,4 +23,6 @@ License
 
 All contents of this repository are released under [Creative Commons Share-alike 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
+NOTE:  While every effort was made to follow the necessary design rules to maintain proper isolation between the USB and RS-485 interfaces, this design should *not* be relied upon to protect life, limb, your equipment, etc.
+
 Design By: [*ZachCross.com*](https://ZachCross.com)
