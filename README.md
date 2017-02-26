@@ -9,7 +9,7 @@ This USB DMX adapter is designed to be an functional foray into PCB design and a
 Bill Of Materials
 -------------------
 
-A Bill Of Materials detailing the specific parts used in my most recent production run can be found on [Octopart](https://octopart.com/bom-tool/TxEq1b9y.  Pricing is more or less optimized around single unit quantity purchasing.
+A Bill Of Materials detailing the specific parts used in my most recent production run can be found on [Octopart](https://octopart.com/bom-tool/TxEq1b9y).  Pricing is more or less optimized around single unit quanties.
 
 
 Repository Contents
@@ -23,6 +23,6 @@ License
 
 All contents of this repository are released under [Creative Commons Share-alike 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
-NOTE:  While every effort was made to follow the necessary design rules to maintain proper isolation between the USB and RS-485 interfaces, this design should *not* be relied upon to protect life, limb, your equipment, etc.
+NOTE:  While every effort was made to follow the necessary design rules to maintain proper isolation between the USB and RS-485 interfaces, this design is a hobby project and as such should *not* be relied upon to protect life, limb, your equipment, etc.
 
 Design By: [*ZachCross.com*](https://ZachCross.com)
